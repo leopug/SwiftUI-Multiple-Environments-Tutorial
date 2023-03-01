@@ -1,0 +1,11 @@
+//
+//  Staging.xcconfig
+//  EnvironmentsTutorial
+//
+//  Created by Leonardo Maia Pugliese on 28/02/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+OTHER_SWIFT_FLAGS = -DSTAGING
